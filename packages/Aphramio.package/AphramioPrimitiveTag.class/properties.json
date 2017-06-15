@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PhilippeBack 6/15/2017 23:34",
+	"super" : "WATagBrush",
+	"category" : "Aphramio",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AphramioPrimitiveTag",
+	"type" : "normal"
+}

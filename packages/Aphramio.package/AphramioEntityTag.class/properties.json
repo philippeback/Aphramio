@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WATagBrush",
+	"category" : "Aphramio",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AphramioEntityTag",
+	"type" : "normal"
+}

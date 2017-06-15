@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AphramioPrimitiveTag",
+	"category" : "Aphramio",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AphramioSphereTag",
+	"type" : "normal"
+}
